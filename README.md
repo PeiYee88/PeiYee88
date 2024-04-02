@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hello!</h1>
 
-Nice to meet you! I'm Melissa, a Software Engineer with a deep love for **Web Development** 🌐 and **Machine Learning** 🚀 Projects. While I'm often busy with coding 💻, I also enjoy staying active with **sports** ⚽ and chilling with friends over a cup of **tea** 🍵 (with a double meaning, haha) 
+Nice to meet you! I'm **Melissa**, a Software Engineer with a deep love for **Web Development** 🌐 and **Machine Learning** 🚀 Projects. While I'm often busy with coding 💻, I also enjoy staying active with **sports** ⚽ and chilling with friends over a cup of **tea** 🍵 (with a double meaning, haha) 
 
 ### What I'm Currently Up To
 
