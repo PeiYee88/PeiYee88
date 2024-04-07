@@ -6,7 +6,6 @@ Nice to meet you! I'm **Melissa**, a Software Engineer with a deep love for **We
 
 - Participating in the [GOOGLE AI Hackathon 2024](https://googleai.devpost.com/) 🤖
 - Pursuing certification as an AWS Cloud Practitioner 🌐
-- Engaging in [Bay Area Hacks 2.0](https://bay-area-hacks-2-0.devpost.com/) 🚀
 - Maintaining my fitness routine 🏋️‍♂️
 - Actively seeking job opportunities 💼
 
