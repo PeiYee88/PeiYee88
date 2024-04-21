@@ -5,7 +5,6 @@ Nice to meet you! I'm **Melissa**, a Software Engineer with a deep love for **We
 ### What I'm Currently Up To
 
 - Participating in the [GOOGLE AI Hackathon 2024](https://googleai.devpost.com/) 🤖
-- Pursuing certification as an AWS Cloud Practitioner 🌐
 - Maintaining my fitness routine 🏋️‍♂️
 - Actively seeking job opportunities 💼
 
@@ -37,7 +36,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/melissa-cheng-7347ba256/).
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PeiYee88&theme=darcula&hide_border=true&background=FFFFFF00&since=2021-01-01">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/peiyee88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" /></a>
-</p>
+<!--   <a href="https://www.buymeacoffee.com/peiyee88"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" /></a>
+</p> -->
 
 <br />
