@@ -1,21 +1,13 @@
 <h1 align='center'>👋 Hello!</h1>
 
-Nice to meet you! I'm **Melissa**, a Software Engineer with a deep love for **Web Development** 🌐 Projects. While I'm often busy with coding 💻, I also enjoy staying active with **sports** ⚽ and chilling with friends over a cup of **tea** 🍵 (with a double meaning, haha) 
+Nice to meet you! I'm **Melissa**, a full-time DevOps Engineer with a deep love for **Web Development** 🌐 Projects. While I'm often busy with work 💻, I also enjoy staying active with **sports** ⚽ and chilling with friends over a cup of **tea** 🍵 (with a double meaning, haha) 
 
 ### What I'm Currently Up To
 
 - Maintaining my fitness routine 🏋️‍♂️
-- Actively seeking job opportunities 💼
+- Hard at work 💼
 
-I frequently join hackathons, so feel free to reach out if you're interested in teaming up! 🤝
-
-
-### Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+I frequently join hackathons too, so feel free to reach out if you're interested in teaming up! 🤝
 
 
 ### Let's connect!
